@@ -1,32 +1,11 @@
 ---
-title: About Phenomic base theme
-hero: https://farm4.staticflickr.com/3949/15589950511_3675b15e59_k.jpg
-# hero credit: https://www.flickr.com/photos/pslee999/15589950511/
+title: About me
+hero: /assets/top.jpg
 cta:
-  label: Discover Phenomic now
-  link: "https://phenomic.io/"
-  props:
-    big: true
+  label: Main page
+  link: "/"
 ---
 
-You are currently viewing Phenomic base theme.
+Hi, i'm Dmitry and i do a lot of things. Just for the life being not so dull.
 
-For now [Phenomic does not provide a native way to extend themes](https://github.com/MoOx/phenomic/issues/508) but since it's based on
-React and uses a component approach, it's pretty easy to make your own reusable collection of layouts and components.
-
----
-
-This website is made with [Phenomic](https://phenomic.io/).
-
-If you are curious about it, you can take a look at
-[existing websites that use Phenomic](https://phenomic.io/showcase/),
-some projects share their source code!
-
-<!-- demo to show you that you can use "assets" folder -->
-<small>
-  Built with
-  <a href="https://facebook.github.io/react/">
-    <img alt="" src="../assets/react.svg" width="16" height="16" />
-    React
-  </a>.
-</small>
+I work with computers since '95 and it helped me a lot. 

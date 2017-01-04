@@ -1,4 +1,10 @@
-# [Phenomic](https://github.com/MoOx/phenomic) phenomic-theme-base
+# Dmitry Sher personal site, built with [Phenomic](https://github.com/MoOx/phenomic)
+
+You can freely use it as a base for your own projects.
+
+Images rights are protected to their owners.
+
+# Commands
 
 ## Install dependencies
 
